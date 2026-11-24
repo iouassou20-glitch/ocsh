@@ -1,3 +1,4 @@
+# fichiers generes
+code/ocsh
+code/test_parser
 *.o
-ocsh
-*.out
